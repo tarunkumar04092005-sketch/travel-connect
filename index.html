@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Travel Connect | Discover Incredible India</title>
+
+    <meta name="description"
+        content="Discover India's most beautiful destinations, treks, beaches, heritage sites and road trips.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- Loading Screen -->
+
+    <div id="loader">
+
+        <div class="spinner"></div>
+
+        <h2>Travel Connect</h2>
+
+        <p>Loading Destinations...</p>
+
+    </div>
+
+    <!-- Navigation -->
+
+    <nav>
+
+        <div class="logo">
+
+            🌍 Travel Connect
+
+        </div>
+
+        <ul>
+
+            <li><a href="#home">Home</a></li>
+
+            <li><a href="#explore">Explore</a></li>
+
+            <li><a href="#featured">Featured</a></li>
+
+            <li><a href="#tips">Travel Tips</a></li>
+
+            <li><a href="#footer">Contact</a></li>
+
+        </ul>
+
+        <div class="nav-buttons">
+
+            <button id="darkMode">
+
+                🌙
+
+            </button>
+
+        </div>
+
+    </nav>
+
+    <!-- Hero -->
+
+    <section class="hero" id="home">
+
+        <div class="overlay"></div>
+
+        <div class="hero-content">
+
+            <h1>
+
+                Discover Incredible India
+
+            </h1>
+
+            <p>
+
+                Explore mountains, beaches, heritage sites, temples,
+                waterfalls and hidden gems across India.
+
+            </p>
+
+            <div class="search-bar">
+
+                <input type="text" id="search"
+                    placeholder="Search destination, state, trek...">
+
+                <button>
+
+                    Search
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Statistics -->
+
+    <section class="stats">
+
+        <div class="stat">
+
+            <h2>150+</h2>
+
+            <p>Destinations</p>
+
+        </div>
+
+        <div class="stat">
+
+            <h2>28</h2>
+
+            <p>States</p>
+
+        </div>
+
+        <div class="stat">
+
+            <h2>10+</h2>
+
+            <p>Categories</p>
+
+        </div>
+
+        <div class="stat">
+
+            <h2>500K+</h2>
+
+            <p>Happy Travellers</p>
+
+        </div>
+
+    </section>
+
+    <!-- Categories -->
+
+    <section class="categories">
+
+        <h2>
+
+            Explore by Category
+
+        </h2>
+
+        <div class="category-grid">
+
+            <button class="category active" data-category="All">🌍 All</button>
+
+            <button class="category" data-category="Trek">🏔 Trekking</button>
+
+            <button class="category" data-category="Beach">🏖 Beaches</button>
+
+            <button class="category" data-category="Heritage">🏛 Heritage</button>
+
+            <button class="category" data-category="Nature">🌿 Nature</button>
+
+            <button class="category" data-category="Road Trip">🚗 Road Trips</button>
+
+            <button class="category" data-category="Solo">🎒 Solo Travel</button>
+
+            <button class="category" data-category="Spiritual">🛕 Spiritual</button>
+
+            <button class="category" data-category="Camping">🏕 Camping</button>
+
+            <button class="category" data-category="Wildlife">🐅 Wildlife</button>
+
+        </div>
+
+    </section>
+
+    <!-- Featured -->
+
+    <section id="featured">
+
+        <div class="section-title">
+
+            <h2>Featured Destinations</h2>
+
+            <p>
+
+                Handpicked destinations loved by thousands of travellers.
+
+            </p>
+
+        </div>
+
+        <div class="featured-grid">
+
+            <div class="featured-card">
+
+                <img src="https://images.unsplash.com/photo-1528127269322-539801943592?w=800"
+                    alt="Leh">
+
+                <div class="featured-content">
+
+                    <h3>Leh Ladakh</h3>
+
+                    <p>Adventure • Road Trip • Mountains</p>
+
+                </div>
+
+            </div>
+
+            <div class="featured-card">
+
+                <img src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800"
+                    alt="Kerala">
+
+                <div class="featured-content">
+
+                    <h3>Kerala Backwaters</h3>
+
+                    <p>Nature • Relax • Houseboats</p>
+
+                </div>
+
+            </div>
+
+            <div class="featured-card">
+
+                <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800"
+                    alt="Hampi">
+
+                <div class="featured-content">
+
+                    <h3>Hampi</h3>
+
+                    <p>UNESCO Heritage Site</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Explore -->
+
+    <section id="explore">
+
+        <div class="section-title">
+
+            <h2>
+
+                Explore India
+
+            </h2>
+
+            <p>
+
+                Search among 150+ destinations.
+
+            </p>
+
+        </div>
+
+        <div class="filters">
+
+            <select id="budgetFilter">
+
+                <option value="">Budget</option>
+
+                <option>₹5000</option>
+
+                <option>₹10000</option>
+
+                <option>₹20000</option>
+
+            </select>
+
+            <select id="seasonFilter">
+
+                <option value="">Season</option>
+
+                <option>Summer</option>
+
+                <option>Winter</option>
+
+                <option>Monsoon</option>
+
+            </select>
+
+            <select id="durationFilter">
+
+                <option value="">Duration</option>
+
+                <option>1-2 Days</option>
+
+                <option>3-5 Days</option>
+
+                <option>1 Week</option>
+
+            </select>
+
+        </div>
+
+        <div id="places" class="cards-container">
+
+            <!-- JavaScript will populate -->
+
+        </div>
+
+    </section>
+
+    <!-- Newsletter -->
+
+    <section class="newsletter">
+
+        <h2>
+
+            Never Miss an Adventure
+
+        </h2>
+
+        <p>
+
+            Subscribe for new destinations, hidden gems and travel guides.
+
+        </p>
+
+        <input type="email" placeholder="Enter your email">
+
+        <button>
+
+            Subscribe
+
+        </button>
+
+    </section>
+
+    <!-- Tips -->
+
+    <section id="tips">
+
+        <div class="section-title">
+
+            <h2>
+
+                Travel Tips
+
+            </h2>
+
+        </div>
+
+        <div class="tips-grid">
+
+            <div class="tip">
+
+                🎒
+
+                <h3>Pack Smart</h3>
+
+                <p>
+
+                    Carry only essentials and keep emergency medicines.
+
+                </p>
+
+            </div>
+
+            <div class="tip">
+
+                📷
+
+                <h3>Capture Memories</h3>
+
+                <p>
+
+                    Always carry a power bank and backup storage.
+
+                </p>
+
+            </div>
+
+            <div class="tip">
+
+                🌎
+
+                <h3>Respect Nature</h3>
+
+                <p>
+
+                    Leave no trace and travel responsibly.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+
+    <footer id="footer">
+
+        <h2>
+
+            Travel Connect
+
+        </h2>
+
+        <p>
+
+            Discover • Connect • Explore
+
+        </p>
+
+        <div class="footer-links">
+
+            <a href="#">GitHub</a>
+
+            <a href="#">LinkedIn</a>
+
+            <a href="#">Instagram</a>
+
+        </div>
+
+        <p>
+
+            © 2026 Travel Connect
+
+        </p>
+
+    </footer>
+
+    <!-- Destination Modal -->
+
+    <div id="destinationModal" class="modal">
+
+        <div class="modal-content">
+
+            <span class="close">&times;</span>
+
+            <div id="modalBody">
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

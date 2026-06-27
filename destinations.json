@@ -1,0 +1,2076 @@
+[
+  {
+    "id": 1,
+    "name": "Leh Ladakh",
+    "state": "Ladakh",
+    "category": "Trek",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Leh Ladakh is one of India's most popular trek destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Leh%20Ladakh",
+    "maps": "https://www.google.com/maps/search/Leh+Ladakh",
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Photography"
+    ],
+    "tags": [
+      "Trek",
+      "Ladakh",
+      "Travel"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Manali",
+    "state": "Himachal Pradesh",
+    "category": "Solo",
+    "rating": 4.7,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Manali is one of India's most popular solo destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Manali",
+    "maps": "https://www.google.com/maps/search/Manali",
+    "activities": [
+      "Cafe Hopping",
+      "Hostels",
+      "Markets"
+    ],
+    "tags": [
+      "Solo",
+      "Himachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Spiti Valley",
+    "state": "Himachal Pradesh",
+    "category": "Road Trip",
+    "rating": 4.9,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Spiti Valley is one of India's most popular road trip destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Spiti%20Valley",
+    "maps": "https://www.google.com/maps/search/Spiti+Valley",
+    "activities": [
+      "Scenic Drive",
+      "Camping",
+      "Photography"
+    ],
+    "tags": [
+      "Road Trip",
+      "Himachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kasol",
+    "state": "Himachal Pradesh",
+    "category": "Solo",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Kasol is one of India's most popular solo destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Kasol",
+    "maps": "https://www.google.com/maps/search/Kasol",
+    "activities": [
+      "Cafe Hopping",
+      "Hostels",
+      "Markets"
+    ],
+    "tags": [
+      "Solo",
+      "Himachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Shimla",
+    "state": "Himachal Pradesh",
+    "category": "Nature",
+    "rating": 4.9,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Shimla is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Shimla",
+    "maps": "https://www.google.com/maps/search/Shimla",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Himachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dharamshala",
+    "state": "Himachal Pradesh",
+    "category": "Nature",
+    "rating": 4.7,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Dharamshala is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Dharamshala",
+    "maps": "https://www.google.com/maps/search/Dharamshala",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Himachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dalhousie",
+    "state": "Himachal Pradesh",
+    "category": "Nature",
+    "rating": 4.8,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Dalhousie is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Dalhousie",
+    "maps": "https://www.google.com/maps/search/Dalhousie",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Himachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Auli",
+    "state": "Uttarakhand",
+    "category": "Trek",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Auli is one of India's most popular trek destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Auli",
+    "maps": "https://www.google.com/maps/search/Auli",
+    "activities": [
+      "Hiking",
+      "Camping",
+      "Photography"
+    ],
+    "tags": [
+      "Trek",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chopta",
+    "state": "Uttarakhand",
+    "category": "Camping",
+    "rating": 4.7,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Chopta is one of India's most popular camping destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Chopta",
+    "maps": "https://www.google.com/maps/search/Chopta",
+    "activities": [
+      "Camping",
+      "Bonfire",
+      "Stargazing"
+    ],
+    "tags": [
+      "Camping",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Kedarnath",
+    "state": "Uttarakhand",
+    "category": "Spiritual",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Summer",
+    "description": "Kedarnath is one of India's most popular spiritual destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Kedarnath",
+    "maps": "https://www.google.com/maps/search/Kedarnath",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Badrinath",
+    "state": "Uttarakhand",
+    "category": "Spiritual",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Badrinath is one of India's most popular spiritual destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Badrinath",
+    "maps": "https://www.google.com/maps/search/Badrinath",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Valley of Flowers",
+    "state": "Uttarakhand",
+    "category": "Nature",
+    "rating": 4.5,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Valley of Flowers is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Valley%20of%20Flowers",
+    "maps": "https://www.google.com/maps/search/Valley+of+Flowers",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Rishikesh",
+    "state": "Uttarakhand",
+    "category": "Adventure",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Rishikesh is one of India's most popular adventure destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Rishikesh",
+    "maps": "https://www.google.com/maps/search/Rishikesh",
+    "activities": [
+      "Rafting",
+      "Bungee Jumping",
+      "Camping"
+    ],
+    "tags": [
+      "Adventure",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mussoorie",
+    "state": "Uttarakhand",
+    "category": "Nature",
+    "rating": 5.0,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Mussoorie is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Mussoorie",
+    "maps": "https://www.google.com/maps/search/Mussoorie",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Nainital",
+    "state": "Uttarakhand",
+    "category": "Nature",
+    "rating": 4.7,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Nainital is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Nainital",
+    "maps": "https://www.google.com/maps/search/Nainital",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Jim Corbett",
+    "state": "Uttarakhand",
+    "category": "Wildlife",
+    "rating": 4.8,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Jim Corbett is one of India's most popular wildlife destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Jim%20Corbett",
+    "maps": "https://www.google.com/maps/search/Jim+Corbett",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Uttarakhand",
+      "Travel"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "category": "Heritage",
+    "rating": 4.8,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Jaipur is one of India's most popular heritage destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Jaipur",
+    "maps": "https://www.google.com/maps/search/Jaipur",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Rajasthan",
+      "Travel"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Udaipur",
+    "state": "Rajasthan",
+    "category": "Heritage",
+    "rating": 4.8,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Summer",
+    "description": "Udaipur is one of India's most popular heritage destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Udaipur",
+    "maps": "https://www.google.com/maps/search/Udaipur",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Rajasthan",
+      "Travel"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jaisalmer",
+    "state": "Rajasthan",
+    "category": "Desert",
+    "rating": 4.7,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Jaisalmer is one of India's most popular desert destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Jaisalmer",
+    "maps": "https://www.google.com/maps/search/Jaisalmer",
+    "activities": [
+      "Camel Safari",
+      "Camping",
+      "Sunset"
+    ],
+    "tags": [
+      "Desert",
+      "Rajasthan",
+      "Travel"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Mount Abu",
+    "state": "Rajasthan",
+    "category": "Nature",
+    "rating": 4.7,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Mount Abu is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Mount%20Abu",
+    "maps": "https://www.google.com/maps/search/Mount+Abu",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Rajasthan",
+      "Travel"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Hampi",
+    "state": "Karnataka",
+    "category": "Heritage",
+    "rating": 4.9,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Hampi is one of India's most popular heritage destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Hampi",
+    "maps": "https://www.google.com/maps/search/Hampi",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Karnataka",
+      "Travel"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Coorg",
+    "state": "Karnataka",
+    "category": "Nature",
+    "rating": 4.8,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Coorg is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Coorg",
+    "maps": "https://www.google.com/maps/search/Coorg",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Karnataka",
+      "Travel"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Chikmagalur",
+    "state": "Karnataka",
+    "category": "Nature",
+    "rating": 4.9,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Chikmagalur is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Chikmagalur",
+    "maps": "https://www.google.com/maps/search/Chikmagalur",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Karnataka",
+      "Travel"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Gokarna",
+    "state": "Karnataka",
+    "category": "Beach",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Gokarna is one of India's most popular beach destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Gokarna",
+    "maps": "https://www.google.com/maps/search/Gokarna",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Karnataka",
+      "Travel"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mysuru",
+    "state": "Karnataka",
+    "category": "Heritage",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Mysuru is one of India's most popular heritage destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Mysuru",
+    "maps": "https://www.google.com/maps/search/Mysuru",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Karnataka",
+      "Travel"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "category": "Urban",
+    "rating": 5.0,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Summer",
+    "description": "Bengaluru is one of India's most popular urban destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Bengaluru",
+    "maps": "https://www.google.com/maps/search/Bengaluru",
+    "activities": [
+      "Food Tour",
+      "Shopping",
+      "Nightlife"
+    ],
+    "tags": [
+      "Urban",
+      "Karnataka",
+      "Travel"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Goa",
+    "state": "Goa",
+    "category": "Beach",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Goa is one of India's most popular beach destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Goa",
+    "maps": "https://www.google.com/maps/search/Goa",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Goa",
+      "Travel"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Puducherry",
+    "state": "Puducherry",
+    "category": "Beach",
+    "rating": 5.0,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Puducherry is one of India's most popular beach destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Puducherry",
+    "maps": "https://www.google.com/maps/search/Puducherry",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Puducherry",
+      "Travel"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Munnar",
+    "state": "Kerala",
+    "category": "Nature",
+    "rating": 4.7,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Munnar is one of India's most popular nature destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Munnar",
+    "maps": "https://www.google.com/maps/search/Munnar",
+    "activities": [
+      "Sightseeing",
+      "Waterfalls",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Kerala",
+      "Travel"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Alleppey",
+    "state": "Kerala",
+    "category": "Backwaters",
+    "rating": 4.9,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Alleppey is one of India's most popular backwaters destinations, offering memorable landscapes, culture, food and unforgettable experiences.",
+    "image": "https://source.unsplash.com/800x600/?Alleppey",
+    "maps": "https://www.google.com/maps/search/Alleppey",
+    "activities": [
+      "Houseboat",
+      "Village Tour",
+      "Photography"
+    ],
+    "tags": [
+      "Backwaters",
+      "Kerala",
+      "Travel"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Wayanad",
+    "state": "Kerala",
+    "category": "Nature",
+    "rating": 4.8,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Wayanad is a must-visit destination in Kerala, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Wayanad",
+    "maps": "https://www.google.com/maps/search/Wayanad",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Kerala",
+      "Travel"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Thekkady",
+    "state": "Kerala",
+    "category": "Wildlife",
+    "rating": 4.5,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Thekkady is a must-visit destination in Kerala, famous for its wildlife experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Thekkady",
+    "maps": "https://www.google.com/maps/search/Thekkady",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Kerala",
+      "Travel"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Kovalam",
+    "state": "Kerala",
+    "category": "Beach",
+    "rating": 4.5,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Kovalam is a must-visit destination in Kerala, famous for its beach experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Kovalam",
+    "maps": "https://www.google.com/maps/search/Kovalam",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Kerala",
+      "Travel"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Varkala",
+    "state": "Kerala",
+    "category": "Beach",
+    "rating": 4.9,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Varkala is a must-visit destination in Kerala, famous for its beach experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Varkala",
+    "maps": "https://www.google.com/maps/search/Varkala",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Kerala",
+      "Travel"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Ooty",
+    "state": "Tamil Nadu",
+    "category": "Nature",
+    "rating": 4.8,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Ooty is a must-visit destination in Tamil Nadu, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Ooty",
+    "maps": "https://www.google.com/maps/search/Ooty",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Tamil",
+      "Travel"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Kodaikanal",
+    "state": "Tamil Nadu",
+    "category": "Nature",
+    "rating": 4.9,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Kodaikanal is a must-visit destination in Tamil Nadu, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Kodaikanal",
+    "maps": "https://www.google.com/maps/search/Kodaikanal",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Tamil",
+      "Travel"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Yercaud",
+    "state": "Tamil Nadu",
+    "category": "Nature",
+    "rating": 5.0,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Yercaud is a must-visit destination in Tamil Nadu, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Yercaud",
+    "maps": "https://www.google.com/maps/search/Yercaud",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Tamil",
+      "Travel"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Rameswaram",
+    "state": "Tamil Nadu",
+    "category": "Spiritual",
+    "rating": 4.6,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Rameswaram is a must-visit destination in Tamil Nadu, famous for its spiritual experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Rameswaram",
+    "maps": "https://www.google.com/maps/search/Rameswaram",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Tamil",
+      "Travel"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Mahabalipuram",
+    "state": "Tamil Nadu",
+    "category": "Heritage",
+    "rating": 4.9,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Mahabalipuram is a must-visit destination in Tamil Nadu, famous for its heritage experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Mahabalipuram",
+    "maps": "https://www.google.com/maps/search/Mahabalipuram",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Tamil",
+      "Travel"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Yelagiri",
+    "state": "Tamil Nadu",
+    "category": "Nature",
+    "rating": 4.6,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Summer",
+    "description": "Yelagiri is a must-visit destination in Tamil Nadu, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Yelagiri",
+    "maps": "https://www.google.com/maps/search/Yelagiri",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Tamil",
+      "Travel"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Araku Valley",
+    "state": "Andhra Pradesh",
+    "category": "Nature",
+    "rating": 4.6,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Araku Valley is a must-visit destination in Andhra Pradesh, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Araku%20Valley",
+    "maps": "https://www.google.com/maps/search/Araku+Valley",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Andhra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "category": "Beach",
+    "rating": 4.8,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Visakhapatnam is a must-visit destination in Andhra Pradesh, famous for its beach experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Visakhapatnam",
+    "maps": "https://www.google.com/maps/search/Visakhapatnam",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Andhra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Lambasingi",
+    "state": "Andhra Pradesh",
+    "category": "Nature",
+    "rating": 4.5,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Lambasingi is a must-visit destination in Andhra Pradesh, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Lambasingi",
+    "maps": "https://www.google.com/maps/search/Lambasingi",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Andhra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Tirupati",
+    "state": "Andhra Pradesh",
+    "category": "Spiritual",
+    "rating": 4.9,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Summer",
+    "description": "Tirupati is a must-visit destination in Andhra Pradesh, famous for its spiritual experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Tirupati",
+    "maps": "https://www.google.com/maps/search/Tirupati",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Andhra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Belum Caves",
+    "state": "Andhra Pradesh",
+    "category": "Heritage",
+    "rating": 4.5,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Belum Caves is a must-visit destination in Andhra Pradesh, famous for its heritage experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Belum%20Caves",
+    "maps": "https://www.google.com/maps/search/Belum+Caves",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Andhra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Hyderabad",
+    "state": "Telangana",
+    "category": "Urban",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Hyderabad is a must-visit destination in Telangana, famous for its urban experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Hyderabad",
+    "maps": "https://www.google.com/maps/search/Hyderabad",
+    "activities": [
+      "Food Tour",
+      "Shopping",
+      "Nightlife"
+    ],
+    "tags": [
+      "Urban",
+      "Telangana",
+      "Travel"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Warangal",
+    "state": "Telangana",
+    "category": "Heritage",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Warangal is a must-visit destination in Telangana, famous for its heritage experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Warangal",
+    "maps": "https://www.google.com/maps/search/Warangal",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Telangana",
+      "Travel"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Nagarjuna Sagar",
+    "state": "Telangana",
+    "category": "Nature",
+    "rating": 4.6,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Nagarjuna Sagar is a must-visit destination in Telangana, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Nagarjuna%20Sagar",
+    "maps": "https://www.google.com/maps/search/Nagarjuna+Sagar",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Telangana",
+      "Travel"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Pachmarhi",
+    "state": "Madhya Pradesh",
+    "category": "Nature",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Pachmarhi is a must-visit destination in Madhya Pradesh, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Pachmarhi",
+    "maps": "https://www.google.com/maps/search/Pachmarhi",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Madhya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "category": "Heritage",
+    "rating": 4.9,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Khajuraho is a must-visit destination in Madhya Pradesh, famous for its heritage experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Khajuraho",
+    "maps": "https://www.google.com/maps/search/Khajuraho",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Madhya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kanha",
+    "state": "Madhya Pradesh",
+    "category": "Wildlife",
+    "rating": 4.5,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Kanha is a must-visit destination in Madhya Pradesh, famous for its wildlife experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Kanha",
+    "maps": "https://www.google.com/maps/search/Kanha",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Madhya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Bandhavgarh",
+    "state": "Madhya Pradesh",
+    "category": "Wildlife",
+    "rating": 5.0,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Bandhavgarh is a must-visit destination in Madhya Pradesh, famous for its wildlife experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Bandhavgarh",
+    "maps": "https://www.google.com/maps/search/Bandhavgarh",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Madhya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Bhopal",
+    "state": "Madhya Pradesh",
+    "category": "Urban",
+    "rating": 4.7,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Bhopal is a must-visit destination in Madhya Pradesh, famous for its urban experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Bhopal",
+    "maps": "https://www.google.com/maps/search/Bhopal",
+    "activities": [
+      "Food Tour",
+      "Shopping",
+      "Nightlife"
+    ],
+    "tags": [
+      "Urban",
+      "Madhya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Orchha",
+    "state": "Madhya Pradesh",
+    "category": "Heritage",
+    "rating": 4.8,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Summer",
+    "description": "Orchha is a must-visit destination in Madhya Pradesh, famous for its heritage experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Orchha",
+    "maps": "https://www.google.com/maps/search/Orchha",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Madhya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Bhubaneswar",
+    "state": "Odisha",
+    "category": "Heritage",
+    "rating": 4.7,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Bhubaneswar is a must-visit destination in Odisha, famous for its heritage experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Bhubaneswar",
+    "maps": "https://www.google.com/maps/search/Bhubaneswar",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Odisha",
+      "Travel"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Puri",
+    "state": "Odisha",
+    "category": "Beach",
+    "rating": 4.8,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Puri is a must-visit destination in Odisha, famous for its beach experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Puri",
+    "maps": "https://www.google.com/maps/search/Puri",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Odisha",
+      "Travel"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Konark",
+    "state": "Odisha",
+    "category": "Heritage",
+    "rating": 4.5,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Konark is a must-visit destination in Odisha, famous for its heritage experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Konark",
+    "maps": "https://www.google.com/maps/search/Konark",
+    "activities": [
+      "Fort Visit",
+      "Museum",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Odisha",
+      "Travel"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Chilika Lake",
+    "state": "Odisha",
+    "category": "Nature",
+    "rating": 4.9,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Chilika Lake is a must-visit destination in Odisha, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Chilika%20Lake",
+    "maps": "https://www.google.com/maps/search/Chilika+Lake",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Odisha",
+      "Travel"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Simlipal",
+    "state": "Odisha",
+    "category": "Wildlife",
+    "rating": 4.5,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Simlipal is a must-visit destination in Odisha, famous for its wildlife experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Simlipal",
+    "maps": "https://www.google.com/maps/search/Simlipal",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Odisha",
+      "Travel"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Daringbadi",
+    "state": "Odisha",
+    "category": "Nature",
+    "rating": 5.0,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Daringbadi is a must-visit destination in Odisha, famous for its nature experiences, scenic beauty, local culture and unforgettable attractions.",
+    "image": "https://source.unsplash.com/800x600/?Daringbadi",
+    "maps": "https://www.google.com/maps/search/Daringbadi",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Odisha",
+      "Travel"
+    ]
+  }
+,
+
+  {
+    "id": 61,
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "category": "Urban",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Mumbai is a popular urban destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Mumbai",
+    "maps": "https://www.google.com/maps/search/Mumbai",
+    "activities": [
+      "Food Tour",
+      "Shopping",
+      "Nightlife"
+    ],
+    "tags": [
+      "Urban",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Lonavala",
+    "state": "Maharashtra",
+    "category": "Nature",
+    "rating": 4.8,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Lonavala is a popular nature destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Lonavala",
+    "maps": "https://www.google.com/maps/search/Lonavala",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Mahabaleshwar",
+    "state": "Maharashtra",
+    "category": "Nature",
+    "rating": 4.9,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Mahabaleshwar is a popular nature destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Mahabaleshwar",
+    "maps": "https://www.google.com/maps/search/Mahabaleshwar",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Panchgani",
+    "state": "Maharashtra",
+    "category": "Nature",
+    "rating": 4.8,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Panchgani is a popular nature destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Panchgani",
+    "maps": "https://www.google.com/maps/search/Panchgani",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Ajanta Caves",
+    "state": "Maharashtra",
+    "category": "Heritage",
+    "rating": 4.6,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Ajanta Caves is a popular heritage destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Ajanta%20Caves",
+    "maps": "https://www.google.com/maps/search/Ajanta+Caves",
+    "activities": [
+      "Museum",
+      "Architecture",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Ellora Caves",
+    "state": "Maharashtra",
+    "category": "Heritage",
+    "rating": 4.9,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Ellora Caves is a popular heritage destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Ellora%20Caves",
+    "maps": "https://www.google.com/maps/search/Ellora+Caves",
+    "activities": [
+      "Museum",
+      "Architecture",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Tadoba",
+    "state": "Maharashtra",
+    "category": "Wildlife",
+    "rating": 4.8,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Tadoba is a popular wildlife destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Tadoba",
+    "maps": "https://www.google.com/maps/search/Tadoba",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Alibaug",
+    "state": "Maharashtra",
+    "category": "Beach",
+    "rating": 5.0,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Alibaug is a popular beach destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Alibaug",
+    "maps": "https://www.google.com/maps/search/Alibaug",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Nashik",
+    "state": "Maharashtra",
+    "category": "Spiritual",
+    "rating": 5.0,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Nashik is a popular spiritual destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Nashik",
+    "maps": "https://www.google.com/maps/search/Nashik",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Shirdi",
+    "state": "Maharashtra",
+    "category": "Spiritual",
+    "rating": 4.7,
+    "budget": "\u20b920000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Shirdi is a popular spiritual destination in Maharashtra, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Shirdi",
+    "maps": "https://www.google.com/maps/search/Shirdi",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Maharashtra",
+      "Travel"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "category": "Heritage",
+    "rating": 4.6,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Ahmedabad is a popular heritage destination in Gujarat, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Ahmedabad",
+    "maps": "https://www.google.com/maps/search/Ahmedabad",
+    "activities": [
+      "Museum",
+      "Architecture",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Gujarat",
+      "Travel"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Statue of Unity",
+    "state": "Gujarat",
+    "category": "Heritage",
+    "rating": 4.8,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Summer",
+    "description": "Statue of Unity is a popular heritage destination in Gujarat, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Statue%20of%20Unity",
+    "maps": "https://www.google.com/maps/search/Statue+of+Unity",
+    "activities": [
+      "Museum",
+      "Architecture",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Gujarat",
+      "Travel"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Gir National Park",
+    "state": "Gujarat",
+    "category": "Wildlife",
+    "rating": 4.8,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Gir National Park is a popular wildlife destination in Gujarat, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Gir%20National%20Park",
+    "maps": "https://www.google.com/maps/search/Gir+National+Park",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Gujarat",
+      "Travel"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Dwarka",
+    "state": "Gujarat",
+    "category": "Spiritual",
+    "rating": 4.8,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Dwarka is a popular spiritual destination in Gujarat, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Dwarka",
+    "maps": "https://www.google.com/maps/search/Dwarka",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Gujarat",
+      "Travel"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Somnath",
+    "state": "Gujarat",
+    "category": "Spiritual",
+    "rating": 4.8,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Somnath is a popular spiritual destination in Gujarat, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Somnath",
+    "maps": "https://www.google.com/maps/search/Somnath",
+    "activities": [
+      "Temple Visit",
+      "Meditation",
+      "Local Food"
+    ],
+    "tags": [
+      "Spiritual",
+      "Gujarat",
+      "Travel"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Rann of Kutch",
+    "state": "Gujarat",
+    "category": "Desert",
+    "rating": 4.6,
+    "budget": "\u20b920000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Rann of Kutch is a popular desert destination in Gujarat, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Rann%20of%20Kutch",
+    "maps": "https://www.google.com/maps/search/Rann+of+Kutch",
+    "activities": [
+      "Sunset",
+      "Camping",
+      "Photography"
+    ],
+    "tags": [
+      "Desert",
+      "Gujarat",
+      "Travel"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Saputara",
+    "state": "Gujarat",
+    "category": "Nature",
+    "rating": 4.6,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Saputara is a popular nature destination in Gujarat, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Saputara",
+    "maps": "https://www.google.com/maps/search/Saputara",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Gujarat",
+      "Travel"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Diu",
+    "state": "Daman and Diu",
+    "category": "Beach",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Diu is a popular beach destination in Daman and Diu, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Diu",
+    "maps": "https://www.google.com/maps/search/Diu",
+    "activities": [
+      "Beach Walk",
+      "Water Sports",
+      "Sunset"
+    ],
+    "tags": [
+      "Beach",
+      "Daman",
+      "Travel"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Raipur",
+    "state": "Chhattisgarh",
+    "category": "Urban",
+    "rating": 4.6,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Raipur is a popular urban destination in Chhattisgarh, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Raipur",
+    "maps": "https://www.google.com/maps/search/Raipur",
+    "activities": [
+      "Food Tour",
+      "Shopping",
+      "Nightlife"
+    ],
+    "tags": [
+      "Urban",
+      "Chhattisgarh",
+      "Travel"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Chitrakote Falls",
+    "state": "Chhattisgarh",
+    "category": "Nature",
+    "rating": 4.7,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Chitrakote Falls is a popular nature destination in Chhattisgarh, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Chitrakote%20Falls",
+    "maps": "https://www.google.com/maps/search/Chitrakote+Falls",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Chhattisgarh",
+      "Travel"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Kanger Valley",
+    "state": "Chhattisgarh",
+    "category": "Wildlife",
+    "rating": 4.9,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Kanger Valley is a popular wildlife destination in Chhattisgarh, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Kanger%20Valley",
+    "maps": "https://www.google.com/maps/search/Kanger+Valley",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Chhattisgarh",
+      "Travel"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Jagdalpur",
+    "state": "Chhattisgarh",
+    "category": "Nature",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Monsoon",
+    "description": "Jagdalpur is a popular nature destination in Chhattisgarh, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Jagdalpur",
+    "maps": "https://www.google.com/maps/search/Jagdalpur",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Chhattisgarh",
+      "Travel"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Shillong",
+    "state": "Meghalaya",
+    "category": "Nature",
+    "rating": 4.9,
+    "budget": "\u20b910000",
+    "duration": "3-5 Days",
+    "bestSeason": "Summer",
+    "description": "Shillong is a popular nature destination in Meghalaya, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Shillong",
+    "maps": "https://www.google.com/maps/search/Shillong",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Meghalaya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Cherrapunji",
+    "state": "Meghalaya",
+    "category": "Nature",
+    "rating": 5.0,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Winter",
+    "description": "Cherrapunji is a popular nature destination in Meghalaya, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Cherrapunji",
+    "maps": "https://www.google.com/maps/search/Cherrapunji",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Meghalaya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dawki",
+    "state": "Meghalaya",
+    "category": "Nature",
+    "rating": 4.7,
+    "budget": "\u20b920000",
+    "duration": "1 Week",
+    "bestSeason": "Winter",
+    "description": "Dawki is a popular nature destination in Meghalaya, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Dawki",
+    "maps": "https://www.google.com/maps/search/Dawki",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Meghalaya",
+      "Travel"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Kaziranga",
+    "state": "Assam",
+    "category": "Wildlife",
+    "rating": 4.6,
+    "budget": "\u20b95000",
+    "duration": "3-5 Days",
+    "bestSeason": "Monsoon",
+    "description": "Kaziranga is a popular wildlife destination in Assam, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Kaziranga",
+    "maps": "https://www.google.com/maps/search/Kaziranga",
+    "activities": [
+      "Safari",
+      "Bird Watching",
+      "Photography"
+    ],
+    "tags": [
+      "Wildlife",
+      "Assam",
+      "Travel"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Majuli",
+    "state": "Assam",
+    "category": "Heritage",
+    "rating": 4.8,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Majuli is a popular heritage destination in Assam, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Majuli",
+    "maps": "https://www.google.com/maps/search/Majuli",
+    "activities": [
+      "Museum",
+      "Architecture",
+      "Local Cuisine"
+    ],
+    "tags": [
+      "Heritage",
+      "Assam",
+      "Travel"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Tawang",
+    "state": "Arunachal Pradesh",
+    "category": "Nature",
+    "rating": 4.5,
+    "budget": "\u20b95000",
+    "duration": "1 Week",
+    "bestSeason": "Monsoon",
+    "description": "Tawang is a popular nature destination in Arunachal Pradesh, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Tawang",
+    "maps": "https://www.google.com/maps/search/Tawang",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Arunachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Ziro Valley",
+    "state": "Arunachal Pradesh",
+    "category": "Nature",
+    "rating": 4.6,
+    "budget": "\u20b95000",
+    "duration": "1-2 Days",
+    "bestSeason": "Winter",
+    "description": "Ziro Valley is a popular nature destination in Arunachal Pradesh, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Ziro%20Valley",
+    "maps": "https://www.google.com/maps/search/Ziro+Valley",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Arunachal",
+      "Travel"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Loktak Lake",
+    "state": "Manipur",
+    "category": "Nature",
+    "rating": 4.6,
+    "budget": "\u20b910000",
+    "duration": "1-2 Days",
+    "bestSeason": "Summer",
+    "description": "Loktak Lake is a popular nature destination in Manipur, offering unique experiences, breathtaking scenery and rich local culture.",
+    "image": "https://source.unsplash.com/800x600/?Loktak%20Lake",
+    "maps": "https://www.google.com/maps/search/Loktak+Lake",
+    "activities": [
+      "Sightseeing",
+      "Photography",
+      "Nature Walk"
+    ],
+    "tags": [
+      "Nature",
+      "Manipur",
+      "Travel"
+    ]
+  }
+]
+
+
